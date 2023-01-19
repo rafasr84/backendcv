@@ -17,6 +17,7 @@ com\backendcv\backendcv\Repository\RExperiencia.class
 com\backendcv\backendcv\Security\Entity\Usuario.class
 com\backendcv\backendcv\Security\jwt\JwtProvider.class
 com\backendcv\backendcv\Security\Entity\Rol.class
+.netbeans_automatic_build
 com\backendcv\backendcv\Controller\PersonaController.class
 com\backendcv\backendcv\Security\Controller\Mensaje.class
 com\backendcv\backendcv\Entity\hys.class
